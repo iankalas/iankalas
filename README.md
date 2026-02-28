@@ -1,3 +1,5 @@
+[![Ian Marasigan Portfolio](https://github.com/iankalas/iankalas/blob/main/blue-banner.jpg)](https://ianmarasigan.online)
+
 ## Hi there 👋
 
 🎓 Digital Media & IT Student @ NAIT 
