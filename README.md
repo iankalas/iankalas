@@ -1,4 +1,4 @@
-[![Ian Marasigan Portfolio](https://github.com/iankalas/iankalas/blob/main/banner-portfolio.jpg)](https://ianmarasigan.online)
+[![Ian Marasigan Portfolio](https://github.com/iankalas/iankalas/blob/main/red-banner.jpg)](https://ianmarasigan.online)
 
 ## Hi there 👋
 
